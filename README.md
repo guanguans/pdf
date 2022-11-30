@@ -1,7 +1,10 @@
 # 最新 1500 多本计算机电子书免费下载
 
+本资源仅供学习交流，严禁用于商业用途，请于24小时内删除。
+
 
 ## 整理那么辛苦，求个 Star，Fork 谢谢
+
 
 计算机类的书籍非常贵，天天买纸质书是不可能的了，所以对电子书的需求量还是挺多的。同时很多小伙伴不知道哪些书是经典，哪些是辣鸡，作为一个互联网从业12年的职场老鸟，我深知看书，看好书再加上实践才能高速成长。
 
@@ -503,9 +506,6 @@ Twitter的JVM性能调优经验.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 深入Java虚拟机.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1lOU9AMAviJLzQ_bEt6zw5Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ghds
 
-深入理解Java虚拟机：JVM高级特性与最佳实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1T0bTPTLwwOPXKXdEhKDKDw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ygxe
-
-深入理解Java虚拟机：JVM高级特性与最佳实践（第三版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UdIG3CvNYE4sT75YgUYong)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nrng
 
 实战Java虚拟机.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/151o-bzu51xsRNQwfDH-v0Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：yxkn
 
@@ -1795,5 +1795,8 @@ Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下�
 ## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
 
 ## 免责声明
+
+本资源仅供学习交流，严禁用于商业用途，请于24小时内删除。
+
 
 书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：75997533@qq.com
